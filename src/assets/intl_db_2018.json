@@ -1,0 +1,130 @@
+{
+	"heats": [
+		{
+			"heatNum": "R1",
+			"raceTime": "08:30AM",
+			"results": [
+	          {
+	            "laneNumber": "1",
+	            "boat": "Alameda DragonFlyers",
+	            "finish": 4,
+	            "time": "02:22.49"
+	          },
+	          {
+	            "laneNumber": "2",
+	            "boat": "Dieselfish Youth",
+	            "finish": 5,
+	            "time": "02:22.72"
+	          },
+	          {
+	            "laneNumber": "3",
+	            "boat": "Ripple Effect Fast",
+	            "finish": 1,
+	            "time": "02:12.64",
+	          },
+	          {
+	            "laneNumber": "4",
+	            "boat": "Bay Area Dragons by LinkedIn",
+	            "finish": 2,
+	            "time": "02.12.46"
+	          },
+	          {
+	            "laneNumber": "5",
+	            "boat": "SF Dragon Healers Gold",
+	            "finish": 3,
+	            "time": "02:17.68"
+	          },
+	          {
+	            "laneNumber": "6",
+	            "boat": "Open",
+	            "finish": 6,
+	            "time": "00.00.00"
+	          }
+	        ]
+		}, 
+		{
+			"heatNum": "R2",
+			"raceTime": "08:45AM",
+			"results": [
+	          {
+	            "laneNumber": "1",
+	            "boat": "DragonMax Collusion",
+	            "finish": 5,
+	            "time": "02:21.77"
+	          },
+	          {
+	            "laneNumber": "2",
+	            "boat": "KPD eLEMONators",
+	            "finish": 4,
+	            "time": "02:21.56"
+	          },
+	          {
+	            "laneNumber": "3",
+	            "boat": "AeroDragons",
+	            "finish": 1,
+	            "time": "02:11.80",
+	          },
+	          {
+	            "laneNumber": "4",
+	            "boat": "SF Dragon Warriors - Crimson",
+	            "finish": 2,
+	            "time": "02:13.05"
+	          },
+	          {
+	            "laneNumber": "5",
+	            "boat": "Oyster Point ProFishent",
+	            "finish": 3,
+	            "time": "02:18.02"
+	          },
+	          {
+	            "laneNumber": "6",
+	            "boat": "Open",
+	            "finish": 6,
+	            "time": "00.00.00"
+	          }
+	        ]
+		},
+		{
+			"heatNum": "R3",
+			"raceTime": "09:00AM",
+			"results": [
+	          {
+	            "laneNumber": "1",
+	            "boat": "CCSF Rams",
+	            "finish": 5,
+	            "time": "02:30.08"
+	          },
+	          {
+	            "laneNumber": "2",
+	            "boat": "Kiel Dragons",
+	            "finish": 4,
+	            "time": "02:18.53"
+	          },
+	          {
+	            "laneNumber": "3",
+	            "boat": "Bay Area Mercenaries",
+	            "finish": 1,
+	            "time": "02:10.81",
+	          },
+	          {
+	            "laneNumber": "4",
+	            "boat": "SF Blazing Dragons",
+	            "finish": 3,
+	            "time": "02:17.32"
+	          },
+	          {
+	            "laneNumber": "5",
+	            "boat": "KPD Broccoli",
+	            "finish": 2,
+	            "time": "02:17.12"
+	          },
+	          {
+	            "laneNumber": "6",
+	            "boat": "Open",
+	            "finish": 6,
+	            "time": "00.00.00"
+	          }
+	        ]
+		}
+	]
+}
